@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I actually like you.";
   gif.src =
-    "https://github.com/synzawa/synzawa.github.io/blob/38a9ef9ff590826dfa141d3e5ddb80b343f52584/ilikeyou.gif?raw=true";
+    "https://github.com/synzawa/synzawa.github.io/blob/b8066eea3c7815dd98ca920ddad74aae0890fbb8/qoobee-blushing.gif?raw=true";
 });
 
 noBtn.addEventListener("mouseover", () => {
