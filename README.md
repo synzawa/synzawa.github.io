@@ -1,1 +1,1 @@
-https://synzawa.github.io/test.html
+https://synzawa.github.io/index.html
